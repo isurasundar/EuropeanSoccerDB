@@ -1,4 +1,4 @@
 # EuropeanSoccerDB
-In this project, me and my team analysed the reasons for Manchester United fall from the table using the European Soccer data from Kaggle.
+In this project, me and my team analysed the reasons for Manchester United fall from the table using the European Soccer data from Kaggle. It contained a decade worth of information about 11 country leagues, their team, players, player stats and details about all the matches played in the last decade. My first task to categorize the match data by year and into their respective leagues. Once I did next task identify the fallen champions, I identified currently struggling yesteryear champions to study the primary reason for their decline. Next, I identified which teams declined most in the recent years in Europe, you guessed it was Manchester United. They were league champions in 2013 and fell to 7th the next year and never recovered after that, Although they lost a legendary manager in the form of Alex Ferguson, I approached the problem from the player's standpoint. I compared their performance of the current team and Manchester United previous performance and forecasted a recruitment strategy for them.
 
 
